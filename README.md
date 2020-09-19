@@ -1,2 +1,2 @@
 # himanshu
-Bio web-page built using HTML, CSS &amp; Javascript.
+Bio web-page-template built using HTML, CSS &amp; Javascript.
